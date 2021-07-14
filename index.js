@@ -3,7 +3,7 @@ var inquirer = require('inquirer');
 var fs = require('fs');
 var generateMarkdown = require('./utils/generateMarkdown.js')
 // TODO: Create an array of questions for user input
-console.log('generateMarkdown--->',generateMarkdown)
+// console.log('generateMarkdown--->',generateMarkdown)
 const questions = [
   {
   type: 'input',
