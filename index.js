@@ -52,7 +52,7 @@ const questions = [
   },
   {
     type: 'input',
-     name: 'contributing',
+     name: 'contributions',
      message: `What does the user need to know about contributing to the repo?`
   }
 ];

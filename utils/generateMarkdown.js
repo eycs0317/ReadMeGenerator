@@ -21,12 +21,11 @@ function generateMarkdown(data) {
 
 
   ## Table of Contents
-  * [Description](#project-description)
+  * [Description](#description)
   * [License](#license)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Tests](#tests)
-  * [License](#license)
   * [Contributions](#contributions)
   * [Questions](#questions)
 
@@ -34,26 +33,35 @@ function generateMarkdown(data) {
 
   ${data.description}
 
+  ## License
+  ${data.license}
 
-  ## Authors
-  ${data.username}
+  ## Installation Instructions
+  ${data.dependencies}
 
+  ## Usage
+  ${data.usage}
+
+  ## Test Command
+  ${data.testCommand}
+
+
+  ## Contributions
+
+  ${data.contributions}
+
+  ## Questions
   email: ${data.email}
-
   [Github](https://github.com/${data.username})
 
 
-  ## Installation Instructions
-    ${data.dependencies}
 
-  ##License
-    ${data.license}
+
+
 
   ## Contribution Guidelines
 
-  ## Test Command
 
-  ${data.testCommand}
 
   ## Questions
   email: ${data.email}
