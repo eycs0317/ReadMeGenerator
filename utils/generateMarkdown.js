@@ -20,7 +20,7 @@ function generateMarkdown(data) {
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
 
 
-  # Table of Contents
+  ## Table of Contents
   * [Description](#project-description)
   * [License](#license)
   * [Installation](#installation)
@@ -35,11 +35,11 @@ function generateMarkdown(data) {
   ${data.description}
 
 
-  ## Table of Contents
-    *
   ## Authors
   ${data.username}
+
   email: ${data.email}
+
   [Github](https://github.com/${data.username})
 
 
@@ -47,6 +47,7 @@ function generateMarkdown(data) {
     ${data.dependencies}
 
   ##License
+    ${data.license}
 
   ## Contribution Guidelines
 
@@ -55,6 +56,7 @@ function generateMarkdown(data) {
   ${data.testCommand}
 
   ## Questions
+  email: ${data.email}
 `;
 }
 

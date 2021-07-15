@@ -78,7 +78,7 @@ async function init() {
 
   // return answers
   // console.log('before function')
-  writeToFile('readme.md',data)
+  writeToFile('test.md',data)
 }
 
 // Function call to initialize app
