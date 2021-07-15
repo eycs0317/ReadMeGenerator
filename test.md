@@ -1,6 +1,6 @@
-# **porject111**
+# **big project**
 
-  [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 
   ## Table of Contents
@@ -14,9 +14,10 @@
 
   ## Description
 
-  this is a project that  lalallalallalal
+  thisfhafn fadfdafn fadafafadsf
 
-  undefined
+  ## License
+    [License: MPL 2.0](https://opensource.org/licenses/MPL-2.0)
 
   ## Installation Instructions
   npm i
@@ -28,15 +29,12 @@
   npm test
 
   ## Contributions
-  money
-
-  ## Questions
-  email: fdsfadsgnj@fdsafdsa.com
+  $$$$$$
 
   [Github](https://github.com/eycs0317)
 
   ## Contribution Guidelines
-  money
+  $$$$$$
 
   ## Questions
-  email: fdsfadsgnj@fdsafdsa.com
+  email: abc@heloo.com
