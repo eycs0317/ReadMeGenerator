@@ -1,7 +1,10 @@
-# **big project**
+# **ReadMeGenerator**
 
-  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
+  ## Description
+
+  Answer some question then you get your readme file generate.
 
   ## Table of Contents
   * [Description](#description)
@@ -12,28 +15,22 @@
   * [Contributions](#contributions)
   * [Questions](#questions)
 
-  ## Description
-
-  dsaf fdasfdsafdas
-
-  ## License
-[License](https://opensource.org/licenses/BSD-3-Clause)
-
   ## Installation Instructions
   npm i
 
   ## Usage
-  nothing
+  nothing to know
 
-  ## Test Command
-  npm t
+  ## License
+[License](https://opensource.org/licenses/MPL-2.0)
 
   ## Contributions
-  $$$$$$$
+  send $$$$
 
-  [Github](https://github.com/eycs0317)
-
-
+  ## Test Command
+  npm test
 
   ## Questions
-  email: alalalal@hfdsfds.com
+  email: efafaadsf@hotmail.com
+  [Github](https://github.com/eycs0317)
+
