@@ -42,7 +42,7 @@ const questions = [
   },
   {
     type: 'input',
-     name: 'needToKnow',
+     name: 'usage',
      message: `What does the user need to know about using the repo?`
   },
   {
@@ -61,7 +61,7 @@ const questions = [
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
 
-  fs.appendFile(fileName,generateMarkdown(data),(err) => {
+  fs.writeFile(fileName,generateMarkdown(data),(err) => {
     if(err) throw err;
     console.log('hahahaha')
   })
@@ -71,13 +71,14 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 async function init() {
   let data = await inquirer.prompt(questions).then(answers => {
+    console.log('answers', answers)
     return answers
   })
   console.log('data', data)
 
   // return answers
   // console.log('before function')
-  writeToFile('readme',data)
+  writeToFile('readme.md',data)
 }
 
 // Function call to initialize app
