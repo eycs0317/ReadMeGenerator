@@ -38,7 +38,7 @@ function renderLicenseLink(license) {
   } else if (license === 'MIT') {
     return '[License](https://opensource.org/licenses/MIT)'
   } else if (license === 'Mozilla') {
-    return '[License: MPL 2.0](https://opensource.org/licenses/MPL-2.0)'
+    return '[License](https://opensource.org/licenses/MPL-2.0)'
   } else if (license === 'Zlib') {
     return '[License: Zlib](https://opensource.org/licenses/Zlib)'
   } else {
@@ -92,9 +92,6 @@ function generateMarkdown(data) {
   ${data.contributions}
 
   [Github](https://github.com/${data.username})
-
-  ## Contribution Guidelines
-  ${data.contributions}
 
   ## Questions
   email: ${data.email}

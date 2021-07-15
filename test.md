@@ -14,27 +14,24 @@
 
   ## Description
 
-  thisfhafn fadfdafn fadafafadsf
+  fdsfnbfdsjbs sfgfgs
 
   ## License
-    [License: MPL 2.0](https://opensource.org/licenses/MPL-2.0)
+    [License](https://opensource.org/licenses/MPL-2.0)
 
   ## Installation Instructions
   npm i
 
   ## Usage
-  nothing
+  nfdksnfjfnafdgdas
 
   ## Test Command
   npm test
 
   ## Contributions
-  $$$$$$
+  fdsafdasfdsafdasf
 
   [Github](https://github.com/eycs0317)
 
-  ## Contribution Guidelines
-  $$$$$$
-
   ## Questions
-  email: abc@heloo.com
+  email: fdfdsfdsfdas@aaaaaa.co
