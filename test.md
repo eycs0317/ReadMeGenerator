@@ -5,7 +5,7 @@
 
   ## Table of Contents
   * [Description](#project-description)
-  * [License](#license)
+  * [License](#License)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Tests](#tests)
@@ -29,7 +29,7 @@
   ## Installation Instructions
     npm install
 
-  ##License
+  ## License
     abc
 
   ## Contribution Guidelines
