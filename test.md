@@ -4,14 +4,14 @@
 
 
   ## Table of Contents
-  * [Description](#project-description)
+  * [Description](#Description)
   * [License](#License)
-  * [Installation](#installation)
+  * [Installation](#Installation Instructions)
   * [Usage](#usage)
-  * [Tests](#tests)
+  * [Tests](#Test Command)
   * [License](#license)
-  * [Contributions](#contributions)
-  * [Questions](#questions)
+  * [Contributions](#Contribution Guidelines)
+  * [Questions](#Questions)
 
   ## Description
 
