@@ -18,9 +18,9 @@
 
   ## License
 
-    [License](https://opensource.org/licenses/Apache-2.0)
+  [License](https://opensource.org/licenses/Apache-2.0)
 
-    [Github](https://github.com/eycs0317/codeQuiz)
+  [Github](https://github.com/eycs0317/codeQuiz)
 
   ## Installation Instructions
   npm i
