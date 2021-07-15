@@ -26,7 +26,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if(license === 'Apache') {
-    return '[License-link](https://opensource.org/licenses/Apache-2.0)'
+    return '[License](https://opensource.org/licenses/Apache-2.0)'
   } else if (license === 'BSD') {
     return '[License](https://opensource.org/licenses/BSD-3-Clause)'
   } else if (license === 'Eclipse') {
@@ -60,6 +60,8 @@ function renderLicenseSection(license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
+  var gitHubLink = `[Github](https://github.com/${data.username}`
+
   return `# **${data.title}**
 
   ${renderLicenseBadge(data.license)}
@@ -92,7 +94,9 @@ function generateMarkdown(data) {
   ## Contributions
   ${data.contributions}
 
-  [Github](https://github.com/${data.username})
+  ${data.username ? gitHubLink : ''}
+
+
 
   ## Questions
   email: ${data.email}

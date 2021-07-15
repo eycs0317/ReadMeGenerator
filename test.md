@@ -1,4 +1,4 @@
-# **big project**
+# **big**
 
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -14,10 +14,13 @@
 
   ## Description
 
-  thifdfnka fdasfn fgkgrgrgrgrogkorgkrogk
+  lllllllll0000000
 
   ## License
-    [License-link](https://opensource.org/licenses/Apache-2.0)
+
+    [License](https://opensource.org/licenses/Apache-2.0)
+
+    [Github](https://github.com/eycs0317/codeQuiz)
 
   ## Installation Instructions
   npm i
@@ -29,9 +32,11 @@
   npm t
 
   ## Contributions
-  give me $$$$
+  $$$$$
 
-  [Github](https://github.com/eycs0317)
+
+
+
 
   ## Questions
-  email: fdsfsdfdsffdas@httete.com
+  email: abc@fdfasfsa
