@@ -1,6 +1,6 @@
-# **ReadMeGenerator**
+# **hahahaha**
 
-  [![License](https://img.shields.io/github/license/eycs0317/ReadMeGenerator)
+  [![License](https://img.shields.io/github/license/eycs0317/hahahaha)
 
 
   ## Table of Contents
@@ -14,27 +14,26 @@
 
   ## Description
 
-  afdfadfdsfadfdsf fdsfasdfdasf fadsfafasfa
+  fdfdsfdsffafasdfasfafads fdafdasfaf fdasfasdfafasdfs
 
   ## License
-  fdsfa
+  asfdsaf
 
   ## Installation Instructions
-  fdasf
+  npm i
 
   ## Usage
-  fdas
+  nothing
 
   ## Test Command
-  fdas
-
+  npm test
 
   ## Contributions
-
-  fdas
+  email user .....
 
   ## Questions
-  email: adfsdsafadg@hotmail.com
+  email: abc@hoofdsafaf.com
+
   [Github](https://github.com/eycs0317)
 
 
@@ -47,4 +46,4 @@
 
 
   ## Questions
-  email: adfsdsafadg@hotmail.com
+  email: abc@hoofdsafaf.com

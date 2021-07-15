@@ -45,13 +45,12 @@ function generateMarkdown(data) {
   ## Test Command
   ${data.testCommand}
 
-
   ## Contributions
-
   ${data.contributions}
 
   ## Questions
   email: ${data.email}
+
   [Github](https://github.com/${data.username})
 
 
