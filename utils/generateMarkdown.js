@@ -26,7 +26,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if(license === 'Apache') {
-    return '[License](https://opensource.org/licenses/Apache-2.0)'
+    return '[License-link](https://opensource.org/licenses/Apache-2.0)'
   } else if (license === 'BSD') {
     return '[License](https://opensource.org/licenses/BSD-3-Clause)'
   } else if (license === 'Eclipse') {
@@ -40,7 +40,7 @@ function renderLicenseLink(license) {
   } else if (license === 'Mozilla') {
     return '[License](https://opensource.org/licenses/MPL-2.0)'
   } else if (license === 'Zlib') {
-    return '[License: Zlib](https://opensource.org/licenses/Zlib)'
+    return '[License](https://opensource.org/licenses/Zlib)'
   } else {
     return '';
   }

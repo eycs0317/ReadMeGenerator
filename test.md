@@ -1,6 +1,6 @@
 # **big project**
 
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
   ## Table of Contents
@@ -14,24 +14,24 @@
 
   ## Description
 
-  fdsfnbfdsjbs sfgfgs
+  thifdfnka fdasfn fgkgrgrgrgrogkorgkrogk
 
   ## License
-    [License](https://opensource.org/licenses/MPL-2.0)
+    [License-link](https://opensource.org/licenses/Apache-2.0)
 
   ## Installation Instructions
   npm i
 
   ## Usage
-  nfdksnfjfnafdgdas
+  nothing
 
   ## Test Command
-  npm test
+  npm t
 
   ## Contributions
-  fdsafdasfdsafdasf
+  give me $$$$
 
   [Github](https://github.com/eycs0317)
 
   ## Questions
-  email: fdfdsfdsfdas@aaaaaa.co
+  email: fdsfsdfdsffdas@httete.com
