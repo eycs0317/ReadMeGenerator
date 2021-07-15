@@ -24,6 +24,7 @@
 
   ## Installation Instructions
   npm i
+  [Github](https://github.com/eycs0317/codeQuiz)
 
   ## Usage
   nothing
