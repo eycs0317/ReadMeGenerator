@@ -71,11 +71,11 @@ function generateMarkdown(data) {
 
   ## Table of Contents
   * [Description](#description)
-  * [License](#license)
   * [Installation](#installation-instructions)
   * [Usage](#usage)
-  * [Tests](#test-command)
+  * [License](#license)
   * [Contributions](#contributions)
+  * [Tests](#test-command)
   * [Questions](#questions)
 
   ## Installation Instructions
@@ -93,7 +93,8 @@ function generateMarkdown(data) {
   ${data.testCommand}
 
   ## Questions
-  email: ${data.email}
+  Reach me at: ${data.email}
+
   ${data.username ? gitHubLink : ''}
 
 `;

@@ -77,8 +77,6 @@ async function init() {
   })
   console.log('data', data)
 
-  // return answers
-  // console.log('before function')
   writeToFile('test.md',data)
 }
 
