@@ -65,6 +65,9 @@ function generateMarkdown(data) {
 
   ${renderLicenseBadge(data.license)}
 
+  ## Description
+
+  ${data.description}
 
   ## Table of Contents
   * [Description](#description)
@@ -75,30 +78,24 @@ function generateMarkdown(data) {
   * [Contributions](#contributions)
   * [Questions](#questions)
 
-  ## Description
-
-  ${data.description}
-
-  ${renderLicenseSection(data.license)}
-
   ## Installation Instructions
-  ${data.dependencies}
+  ${data.install}
 
   ## Usage
   ${data.usage}
 
-  ## Test Command
-  ${data.testCommand}
+  ${renderLicenseSection(data.license)}
 
   ## Contributions
   ${data.contributions}
 
-  ${data.username ? gitHubLink : ''}
-
-
+  ## Test Command
+  ${data.testCommand}
 
   ## Questions
   email: ${data.email}
+  ${data.username ? gitHubLink : ''}
+
 `;
 }
 
