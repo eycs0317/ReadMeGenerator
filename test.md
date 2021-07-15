@@ -1,6 +1,6 @@
 # **big project**
 
-  [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib)
+  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 
   ## Table of Contents
@@ -14,10 +14,10 @@
 
   ## Description
 
-  fdsa fdas fdasf fads
+  dsaf fdasfdsafdas
 
   ## License
-[License](https://opensource.org/licenses/Zlib)
+[License](https://opensource.org/licenses/BSD-3-Clause)
 
   ## Installation Instructions
   npm i
@@ -29,11 +29,11 @@
   npm t
 
   ## Contributions
-  send me a email
+  $$$$$$$
 
-  [Github](https://github.com/eycs0317
+  [Github](https://github.com/eycs0317)
 
 
 
   ## Questions
-  email: dsfdasf@hofdsa.com
+  email: alalalal@hfdsfds.com
