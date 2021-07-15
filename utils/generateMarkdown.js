@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
 
-  // `[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/${license})`
+  // `[![License](https://img.shields.io/github/license/${}/<Repository>)`
 }
 
 // TODO: Create a function that returns the license link
@@ -17,7 +17,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# **${data.title}**
 
-  [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+  [![License](https://img.shields.io/github/license/${data.username}/${data.title})
 
 
   ## Table of Contents
@@ -25,7 +25,7 @@ function generateMarkdown(data) {
   * [License](#license)
   * [Installation](#installation-instructions)
   * [Usage](#usage)
-  * [Tests](#tests-command)
+  * [Tests](#test-command)
   * [Contributions](#contributions)
   * [Questions](#questions)
 

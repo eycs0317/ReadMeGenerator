@@ -1,6 +1,6 @@
-# **bigproject**
+# **ReadMeGenerator**
 
-  [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+  [![License](https://img.shields.io/github/license/eycs0317/ReadMeGenerator)
 
 
   ## Table of Contents
@@ -8,34 +8,34 @@
   * [License](#license)
   * [Installation](#installation-instructions)
   * [Usage](#usage)
-  * [Tests](#tests-command)
+  * [Tests](#test-command)
   * [Contributions](#contributions)
   * [Questions](#questions)
 
   ## Description
 
-  asfjeojhufhg78h43hgoirnfs hf9ndahvfo h98hnioj verfbfsvvf f34ggsfsgreg 
+  afdfadfdsfadfdsf fdsfasdfdasf fadsfafasfa
 
   ## License
-  OMG
+  fdsfa
 
   ## Installation Instructions
-  npm i
+  fdasf
 
   ## Usage
-  nothing
+  fdas
 
   ## Test Command
-  npm test
+  fdas
 
 
   ## Contributions
 
-  call me
+  fdas
 
   ## Questions
-  email: bbbbb@abc.com
-  [Github](https://github.com/aaaaaaaaaa)
+  email: adfsdsafadg@hotmail.com
+  [Github](https://github.com/eycs0317)
 
 
 
@@ -47,4 +47,4 @@
 
 
   ## Questions
-  email: bbbbb@abc.com
+  email: adfsdsafadg@hotmail.com
