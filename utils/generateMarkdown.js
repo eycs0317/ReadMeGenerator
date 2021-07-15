@@ -51,8 +51,7 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license !== 'none') {
     return `## License
-
-    ${renderLicenseLink(license)}`
+${renderLicenseLink(license)}`
   }else {
     return '';
   }

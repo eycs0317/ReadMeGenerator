@@ -1,6 +1,6 @@
-# **big**
+# **big project**
 
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib)
 
 
   ## Table of Contents
@@ -14,17 +14,13 @@
 
   ## Description
 
-  lllllllll0000000
+  fdsa fdas fdasf fads
 
   ## License
-
-  [License](https://opensource.org/licenses/Apache-2.0)
-
-  [Github](https://github.com/eycs0317/codeQuiz)
+[License](https://opensource.org/licenses/Zlib)
 
   ## Installation Instructions
   npm i
-  [Github](https://github.com/eycs0317/codeQuiz)
 
   ## Usage
   nothing
@@ -33,11 +29,11 @@
   npm t
 
   ## Contributions
-  $$$$$
+  send me a email
 
-
+  [Github](https://github.com/eycs0317
 
 
 
   ## Questions
-  email: abc@fdfasfsa
+  email: dsfdasf@hofdsa.com
