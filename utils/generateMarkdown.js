@@ -59,7 +59,7 @@ ${renderLicenseLink(license)}`
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  var gitHubLink = `[Github](https://github.com/${data.username})`
+  var gitHubLink = `[My GitHub](https://github.com/${data.username})`
 
   return `# **${data.title}**
 

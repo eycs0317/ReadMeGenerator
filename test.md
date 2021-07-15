@@ -1,10 +1,10 @@
 # **big project**
 
-  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
-  short fdsfdfsdfdasfkdfndsafsaf description
+  fflflflflflfl fdfsnfsdfakdl nfkldsnaflk d fdsaf f sa fdsaf adf f dsfasfd fdasf df fdasf dsfa f fas fa
 
   ## Table of Contents
   * [Description](#description)
@@ -19,18 +19,19 @@
   npm i
 
   ## Usage
-  nothn
+  nothing
 
-  
+  ## License
+[License](https://opensource.org/licenses/MIT)
 
   ## Contributions
-  send me $$
+  aaaaaaaaaaaaaaaaaaaaaaaaa
 
   ## Test Command
   npm test
 
   ## Questions
-  Reach me at: eycs@hotmail.com
+  Reach me at: abcdefg@mail.com
 
-  [Github](https://github.com/eycs0317)
+  [My GitHub](https://github.com/eycs0317)
 
