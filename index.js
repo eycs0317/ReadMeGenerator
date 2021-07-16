@@ -72,7 +72,6 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 async function init() {
   let data = await inquirer.prompt(questions).then(answers => {
-    console.log('answers', answers)
     return answers
   })
   console.log('data', data)
