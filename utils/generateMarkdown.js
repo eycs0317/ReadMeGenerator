@@ -58,16 +58,17 @@ ${renderLicenseLink(license)}`
 }
 
 // TODO: Create a function to generate markdown for README
-function generateMarkdown(data) {
-  var gitHubLink = `[My GitHub](https://github.com/${data.username})`
+function generateMarkdown({title, username, email, license, description, install, usage, contributions, testCommand, }) {
+  var gitHubLink = `[My GitHub](https://github.com/${username})`
+  var showEmail = `If you have any questions: ${email}`
 
-  return `# **${data.title}**
+  return `# **${title}**
 
-  ${renderLicenseBadge(data.license)}
+  ${renderLicenseBadge(license)}
 
   ## Description
 
-  ${data.description}
+  ${description}
 
   ## Table of Contents
   * [Description](#description)
@@ -79,23 +80,23 @@ function generateMarkdown(data) {
   * [Questions](#questions)
 
   ## Installation Instructions
-  ${data.install}
+  ${install}
 
   ## Usage
-  ${data.usage}
+  ${usage}
 
-  ${renderLicenseSection(data.license)}
+  ${renderLicenseSection(license)}
 
   ## Contributions
-  ${data.contributions}
+  ${contributions}
 
   ## Test Command
-  ${data.testCommand}
+  ${testCommand}
 
   ## Questions
-  Reach me at: ${data.email}
+  ${email ? showEmail : ''}
 
-  ${data.username ? gitHubLink : ''}
+  ${username ? gitHubLink : ''}
 
 `;
 }

@@ -1,10 +1,10 @@
-# **big project**
+# **small pro**
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
   ## Description
 
-  fflflflflflfl fdfsnfsdfakdl nfkldsnaflk d fdsaf f sa fdsaf adf f dsfasfd fdasf df fdasf dsfa f fas fa
+  alalallalallalallalal
 
   ## Table of Contents
   * [Description](#description)
@@ -22,16 +22,16 @@
   nothing
 
   ## License
-[License](https://opensource.org/licenses/MIT)
+[License](https://opensource.org/licenses/IPL-1.0)
 
   ## Contributions
-  aaaaaaaaaaaaaaaaaaaaaaaaa
+  $$$$$$$$$
 
   ## Test Command
   npm test
 
   ## Questions
-  Reach me at: abcdefg@mail.com
+  If you have any questions: eafda@gafdsf.com
 
-  [My GitHub](https://github.com/eycs0317)
+  
 
