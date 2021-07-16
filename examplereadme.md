@@ -1,10 +1,10 @@
-# **example project**
+# **my project**
 
-  [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+  [![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
   ## Description
 
-  lalalallallalallala
+  fdsfsadf fdsfadsf f dsafd 
 
   ## Table of Contents
   * [Description](#description)
@@ -19,19 +19,19 @@
   npm i
 
   ## Usage
-  nothing
+  nothing to know
 
   ## License
-[Eclipse License](https://opensource.org/licenses/EPL-1.0)
+[IBM License](https://opensource.org/licenses/IPL-1.0)
 
-  ## Contributions
-  call me
+  ## Contributions Guidelines
+  i don;t knoefdafasfasfasf
 
-  ## Test Command
-  npm t
+  ## Test Instructions
+  npm test
 
   ## Questions
-  If you have any questions: lalallalll@jfdsafs.com
+  If you have any questions: fdsfaffdas@ggg.com
 
   [My GitHub](https://github.com/eycs0317)
 

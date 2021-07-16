@@ -86,10 +86,10 @@ function generateMarkdown({title, username, email, license, description, install
 
   ${renderLicenseSection(license)}
 
-  ## Contributions
+  ## Contributions Guidelines
   ${contributions}
 
-  ## Test Command
+  ## Test Instructions
   ${testCommand}
 
   ## Questions
