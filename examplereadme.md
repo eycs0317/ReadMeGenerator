@@ -1,10 +1,10 @@
 # **my project**
 
-  [![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   ## Description
 
-  fdsfsadf fdsfadsf f dsafd 
+  fdsfdsafasdfadsfadsfasfdsfasdfsfadsfasfafadsfasf
 
   ## Table of Contents
   * [Description](#description)
@@ -19,19 +19,19 @@
   npm i
 
   ## Usage
-  nothing to know
+  nothing
 
   ## License
-[IBM License](https://opensource.org/licenses/IPL-1.0)
+[Mozilla License](https://opensource.org/licenses/MPL-2.0)
 
   ## Contributions Guidelines
-  i don;t knoefdafasfasfasf
+  i don't know
 
   ## Test Instructions
   npm test
 
   ## Questions
-  If you have any questions: fdsfaffdas@ggg.com
+  If you have any questions: fdafdaf@fdfasdfadsf.com
 
   [My GitHub](https://github.com/eycs0317)
 
