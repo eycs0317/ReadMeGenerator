@@ -1,40 +1,36 @@
-# **MyProject name**
+# **ReadMeGenerator**
 
-  [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
-
-
-  # Table of Contents
-  * [Description](#project-description)
-  * [License](#license)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Tests](#tests)
-  * [License](#license)
-  * [Contributions](#contributions)
-  * [Questions](#questions)
+  
 
   ## Description
 
-  this is testing
-
+  ReadMeGenerator will help you create a README.md file for your new project quick and easy!!
 
   ## Table of Contents
-    *
-  ## Authors
-  Eddie
-  email: abc@hotmail.com
-  [Github](https://github.com/Eddie)
-
+  * [Description](#description)
+  * [Installation](#installation-instructions)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributions](#contributions)
+  * [Tests](#test-command)
+  * [Questions](#questions)
 
   ## Installation Instructions
-    npm i
+  npm i
 
-  ##License
+  ## Usage
+  First clone down the repo. Open on any code editor, then install the dependencies by running 'npm i' in the terminal. Next thing run 'node index.js'. Follow the prompt in the terminal and answer all the question then you be all set. A examplereadme.md file will create!!
 
-  ## Contribution Guidelines
+  
+
+  ## Contributions
+  none
 
   ## Test Command
-
   npm test
 
   ## Questions
+  
+
+  [My GitHub](https://github.com/eycs0317)
+

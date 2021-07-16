@@ -64,7 +64,6 @@ function writeToFile(fileName, data) {
 
   fs.writeFile(fileName,generateMarkdown(data),(err) => {
     if(err) throw err;
-    console.log('hahahaha')
   })
 
 }
@@ -77,7 +76,7 @@ async function init() {
   })
   console.log('data', data)
 
-  writeToFile('test.md',data)
+  writeToFile('examplereadme.md',data)
 }
 
 // Function call to initialize app
