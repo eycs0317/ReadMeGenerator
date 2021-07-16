@@ -21,26 +21,25 @@ function renderLicenseBadge(license) {
     return '';
   }
 }
-// [Github](https://github.com/eycs0317/weatherDashboard)
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if(license === 'Apache') {
-    return '[License](https://opensource.org/licenses/Apache-2.0)'
+    return '[Apache License](https://opensource.org/licenses/Apache-2.0)'
   } else if (license === 'BSD') {
-    return '[License](https://opensource.org/licenses/BSD-3-Clause)'
+    return '[BSD License](https://opensource.org/licenses/BSD-3-Clause)'
   } else if (license === 'Eclipse') {
-    return '[License](https://opensource.org/licenses/EPL-1.0)'
+    return '[Eclipse License](https://opensource.org/licenses/EPL-1.0)'
   } else if (license === 'GNU') {
-    return '[License](http://www.gnu.org/licenses/gpl-3.0)'
+    return '[GNU License](http://www.gnu.org/licenses/gpl-3.0)'
   } else if (license === 'IBM') {
-    return '[License](https://opensource.org/licenses/IPL-1.0)'
+    return '[IBM License](https://opensource.org/licenses/IPL-1.0)'
   } else if (license === 'MIT') {
-    return '[License](https://opensource.org/licenses/MIT)'
+    return '[MIT License](https://opensource.org/licenses/MIT)'
   } else if (license === 'Mozilla') {
-    return '[License](https://opensource.org/licenses/MPL-2.0)'
+    return '[Mozilla License](https://opensource.org/licenses/MPL-2.0)'
   } else if (license === 'Zlib') {
-    return '[License](https://opensource.org/licenses/Zlib)'
+    return '[Zlib License](https://opensource.org/licenses/Zlib)'
   } else {
     return '';
   }

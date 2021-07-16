@@ -1,10 +1,10 @@
-# **small pro**
+# **example project**
 
-  [![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+  [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 
   ## Description
 
-  alalallalallalallalal
+  lalalallallalallala
 
   ## Table of Contents
   * [Description](#description)
@@ -22,16 +22,16 @@
   nothing
 
   ## License
-[License](https://opensource.org/licenses/IPL-1.0)
+[Eclipse License](https://opensource.org/licenses/EPL-1.0)
 
   ## Contributions
-  $$$$$$$$$
+  call me
 
   ## Test Command
-  npm test
+  npm t
 
   ## Questions
-  If you have any questions: eafda@gafdsf.com
+  If you have any questions: lalallalll@jfdsafs.com
 
-  
+  [My GitHub](https://github.com/eycs0317)
 
