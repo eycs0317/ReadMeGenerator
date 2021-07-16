@@ -74,8 +74,8 @@ function generateMarkdown({title, username, email, license, description, install
   * [Installation](#installation-instructions)
   * [Usage](#usage)
   * [License](#license)
-  * [Contributions](#contributions)
-  * [Tests](#test-command)
+  * [Contributions](#contributions-guidelines)
+  * [Tests](#test-instructions)
   * [Questions](#questions)
 
   ## Installation Instructions

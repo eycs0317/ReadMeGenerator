@@ -1,6 +1,6 @@
 # **ReadMeGenerator**
 
-  
+
 
   ## Description
 
@@ -21,7 +21,7 @@
   ## Usage
   First clone down the repo. Open on any code editor, then install the dependencies by running 'npm i' in the terminal. Next thing run 'node index.js'. Follow the prompt in the terminal and answer all the question then you be all set. A examplereadme.md file will create!!
 
-  
+
 
   ## Contributions
   none
@@ -30,7 +30,10 @@
   npm test
 
   ## Questions
-  
+
 
   [My GitHub](https://github.com/eycs0317)
+
+  ## Video
+  [link](https://drive.google.com/file/d/1vq62Qbno29_OKy0ipZyMHUEfZu1s1ds9/view)
 
